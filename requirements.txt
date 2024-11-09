@@ -1,0 +1,2 @@
+random == 3.9.6
+unittest == 3.9.6

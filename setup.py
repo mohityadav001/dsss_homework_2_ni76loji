@@ -6,6 +6,6 @@ setup(
    description='Exercise 02 module',
    author='Mohit Yadav',
    author_email='mohit.yadav@fau.de',
-   packages=['math_quiz'],  #same as name
-   install_requires=['numpy', 'pandas'], #external packages as dependencies
+   packages=['math_quiz'], 
+   install_requires=['numpy', 'pandas'], 
 )
